@@ -29,6 +29,14 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+/* Used for headings in whitelist FAQ */
+h3 {
+  font-weight: 600;
+  font-size: large;
+  font-style: italic;
+  margin-top: 15px;
+}
+
 a {
   color: #212529;
   transition: all 0.2s;
