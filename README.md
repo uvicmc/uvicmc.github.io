@@ -1,2 +1,3 @@
 # uvicmc.github.io
-Club Website
+
+This is the repo for our old club website. The new website is in a private repo on gitlab.
